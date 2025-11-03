@@ -1,7 +1,7 @@
 [
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
@@ -10,7 +10,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Стук в подвеске",
@@ -19,7 +19,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Замена масла",
@@ -28,7 +28,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
@@ -37,7 +37,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
@@ -46,7 +46,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Стук в подвеске",
@@ -55,7 +55,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
@@ -64,7 +64,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Замена масла",
@@ -73,7 +73,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
@@ -82,7 +82,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Замена масла",
@@ -91,7 +91,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
@@ -100,7 +100,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
@@ -109,7 +109,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Замена масла",
@@ -118,7 +118,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
@@ -127,7 +127,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Замена масла",
@@ -136,7 +136,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
@@ -145,7 +145,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Замена масла",
@@ -154,7 +154,7 @@
   },
   {
     "requestId": "AC000000000004258",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00Z",
     "vehicle": "IVECO",
     "garageNumber": "A601",
     "issue": "Не работает кондиционер",
