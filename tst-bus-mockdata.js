@@ -1,0 +1,23 @@
+[
+  { "id": 1, "stop": "Goethe Street", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 34, "comment": "Average load" },
+  { "id": 2, "stop": "Birzhan Sal Street", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 70, "comment": "Busy stop" },
+  { "id": 3, "stop": "Esenberlin Street", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 93, "comment": "Overloaded" },
+  { "id": 4, "stop": "Beibitshilik Street", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 72, "comment": "Average load" },
+  { "id": 5, "stop": "Seifullin Street", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 43, "comment": "Average load" },
+  { "id": 6, "stop": "Republic Avenue", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 70, "comment": "Busy stop" },
+  { "id": 7, "stop": "Tashenov Street", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 52, "comment": "Average load" },
+  { "id": 8, "stop": "Amman Street", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 89, "comment": "Overloaded" },
+  { "id": 9, "stop": "Mangilik El Avenue", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 56, "comment": "Average load" },
+  { "id": 10, "stop": "Kunaev Street", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 70, "comment": "Busy stop" },
+  { "id": 11, "stop": "Kabanbay Batyr Avenue", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 34, "comment": "Average load" },
+  { "id": 12, "stop": "Zhanadariya Street", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 70, "comment": "Busy stop" },
+  { "id": 13, "stop": "Arnassay Street", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 54, "comment": "Average load" },
+  { "id": 14, "stop": "Kabanbay Batyr Avenue", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 92, "comment": "Overloaded" },
+  { "id": 15, "stop": "Amman Street", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 96, "comment": "Overloaded" },
+  { "id": 16, "stop": "Mangilik El Avenue", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 52, "comment": "Average load" },
+  { "id": 17, "stop": "Kunaev Street", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 70, "comment": "Busy stop" },
+  { "id": 18, "stop": "Kabanbay Batyr Avenue", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 43, "comment": "Average load" },
+  { "id": 19, "stop": "Zhanadariya Street", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 70, "comment": "Busy stop" },
+  { "id": 20, "stop": "Arnassay Street", "passengers_in": 17, "passengers_out": 7, "passengers_now": 64, "fill_percent": 67, "comment": "Average load" },
+  { "id": 21, "stop": "International Airport", "passengers_in": 24, "passengers_out": 5, "passengers_now": 70, "fill_percent": 98, "comment": "Busy stop" }
+]
